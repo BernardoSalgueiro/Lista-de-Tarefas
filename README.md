@@ -1,5 +1,7 @@
 ✅ Lista de Tarefas
-Este projeto é um website de listagem de tarefas (To-Do List) criado com HTML5, CSS3 e JavaScript, com o objetivo de ajudar usuários a organizarem melhor suas atividades diárias por meio de uma interface prática e interativa.
+
+Este projeto é um website de listagem de tarefas (To-Do List) criado com HTML5, CSS3 e JavaScript,
+com o objetivo de ajudar usuários a organizarem melhor suas atividades diárias por meio de uma interface prática e interativa.
 
 🚀 Tecnologias Utilizadas:
 
